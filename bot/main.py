@@ -70,7 +70,7 @@ class StdOutListener(StreamListener):
             print(
                 f"---------Error---------\n"
                 f"unknown error\n"
-                f"You've found an error. Please contact the owner (https://discord.gg/JV5eUB) "
+                f"You've found an error. Please contact the owner ThatBrownPotato#0007 "
                 f"and send him what follows below:\n"
                 f"{error}\n"
                 f"{status}"
@@ -122,7 +122,7 @@ if __name__ == "__main__":
             print(
                 f"---------Error---------\n"
                 f"unknown error\n"
-                f"You've found an error. Please contact the owner (https://discord.gg/JV5eUB) "
+                f"You've found an error. Please contact ThatBrownPotato#0007 "
                 f"and send him what follows below:\n"
                 f"{error}\n"
                 f"{config}\n"
